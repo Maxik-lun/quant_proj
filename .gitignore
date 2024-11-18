@@ -1,0 +1,9 @@
+*.zip
+*.duckdb
+quantenv
+.ipynb_checkpoints
+__pycache__
+data/*.csv
+data/*.duckdb
+Практика_*
+*.parquet
